@@ -42,6 +42,7 @@ $ yarn install
 ## Running the app
 Obs: 
   Set DATABASE_URL with the connection string to database
+  
   Set MNENOMIC for the connection with ZENIQ SmartChain
 ```bash
 # development
