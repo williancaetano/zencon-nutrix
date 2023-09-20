@@ -1,6 +1,6 @@
 
 ![image](https://github.com/williancaetano/zencon-nutrix/assets/61142917/c89b4c3c-9e6b-4be5-b1f2-69ba2630bb8f)
-# Nutrix Nome Plugin
+# Nutrix Nomo Plugin
 As a patient centered based solution, gSense now introduce another level of security and transparency of data for their patients.
 Link: https://zencon.gsense.club/?t=nomo
 
