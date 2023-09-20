@@ -26,6 +26,13 @@
 
 Our project is available on: https://api-zencon.gsense.club/api
 
+This project is composed of 6 resources listed bellow:
+- Patient: Responsible of accessing and creating patients
+- Doctor: Responsible of accessing and creating doctors
+- Report: Responsible of acessing and extending medical reports related to an user
+- Contract: Wrapper to connect with our SmartContract through our backend
+- Wallet: Responsible of acessing and extending patients and doctors wallets numbers
+
 ## Installation
 
 ```bash
