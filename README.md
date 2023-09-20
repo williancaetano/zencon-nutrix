@@ -20,8 +20,10 @@ patients communicate by adding and revoking access to their current record state
 By Nutrix Team, to you, to everyone.
 
 For More information, check the READMEs in the folders inside this repository:
-![Back-end](zencon-nutrix-backend/README.md)
-![Front-end](zencon-nutrix-plugin/README.md)
-![Contracts](contracts/README.md)
+[Back-end](zencon-nutrix-backend/README.md)
+
+[Front-end](zencon-nutrix-plugin/README.md)
+
+[Contracts](contracts/README.md)
 
 
