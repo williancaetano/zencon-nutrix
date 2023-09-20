@@ -47,18 +47,10 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-## Test
+## Documentation
 
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
-```
+Documentation is avalailable in the /api resource.
+Example: http://localhost/api
 
 ## Support
 
