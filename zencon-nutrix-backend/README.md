@@ -50,7 +50,7 @@ $ yarn run start:prod
 ## Documentation
 
 Documentation is avalailable in the /api resource.
-Example: http://localhost/api
+Example: http://localhost:4000/api
 
 ## Support
 
